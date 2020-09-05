@@ -1,4 +1,4 @@
-#coded by Jey Zeta
+#codigo de Anthony Alejandro Oviedo Valencia (dobleTreinta)
 import sys, os, webbrowser, platform, subprocess
 
 import webbrowser
@@ -16,7 +16,7 @@ def menu():
 \033[1;31m                                ____            _
 \033[1;31m                               |  _ \  _____  _(_)_ __   __ _
 \033[1;37m                               | | | |/ _ \ \/ / | '_ \ / _` |
-\033[1;37m                               | |_| | (_) >  <| | | | | (_| |
+\033[1;37m                               | |_| | (_) >  <| | | | | (_| | 
 \033[1;31m                               |____/ \___/_/\_\_|_| |_|\__, |
 \033[1;31m                                                        |___/
 
